@@ -1,4 +1,4 @@
 # hello-world
-ignore
-fav color is purple 
+
+fav color is purple, 
 just starting out 
